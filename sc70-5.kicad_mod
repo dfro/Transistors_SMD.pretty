@@ -1,5 +1,5 @@
 (module sc70-5 (layer F.Cu)
-  (descr SC70-5)
+  (descr "SC70-5 SOT323-5")
   (attr smd)
   (fp_text reference sc70-5 (at 1.5 -0.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
